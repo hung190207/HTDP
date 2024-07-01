@@ -106,3 +106,22 @@ Add more library help us do more things with Racket.
 (cond
     [ConditionExpression ResuoltExpression])
 ```
+
+**animate**: starts a clock and counts the number of ticks.
+
+The clock ticks 28 times per second which means program creates some 100
+pictures in about 3.5 seconds.
+
+## One Program, Many Definitions
+
+**Syntax**:
+
+```scheme
+(define Name Expression)
+```
+
+Ex:
+
+```scheme
+(define h 60)
+```
