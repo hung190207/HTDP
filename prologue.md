@@ -29,7 +29,7 @@ This is _nested arithmetic_.
 
 This is _BSL arithmetic_.
 
-**Both of them are used `prefix notation`**
+**Both of them are used `prefix notation` form.**
 
 https://en.wikipedia.org/wiki/Polish_notation
 
