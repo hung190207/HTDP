@@ -12,14 +12,8 @@
 
 (define alt1 #f) ;sunny is false.
 (define alt2 #t) ;friday is true.
+;The answer is:
 
-(or alt1 false)
-(and alt1 false)
-(not alt1)
-(or alt2 false)
-(and alt2 false)
-(not alt2)
+(or friday alt1)
 
-;So there are 6 combinations of Booleans I can associate with sunny and friday.
-
-
+;So there are 4 combinations of Booleans I can associate with sunny and friday.
